@@ -1,6 +1,10 @@
 first change
 
+<<<<<<< HEAD
 conflict
 
 CONFLICT AGAIN
 
+=======
+CONFLICT AGAIN
+>>>>>>> greetGalushko
